@@ -1,16 +1,16 @@
-<h3>Hi there, I'm Priya Chanchal ✨</h3>
+<!--<h3>Hi there, I'm Priya Chanchal ✨</h3>-->
 <!-- <h3 align="center">A Passionate Computer Science Student and Aspiring Software Engineer</h3> -->
 
 <!--<p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" /></br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=440&lines=Tech+Enthusiast;ML+%7C+Data+Science+Learner;Frontend+%7C+Backend+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </p>-->
-
- I'm currently pursuing **B.Tech in Computer Science and Engineering (AI/ML)** </br>
- I'm passionate about **Data Science, AI/ML, and Software Development**</br>
- I love building real-world projects & solving challenging coding problems</br>
- I'm currently working on improving my **DSA**, learning **System Design**, and exploring **internship opportunities**</br>
- Reach me at: **priyachanchal169@gmail.com**<br>
+Hi there, I'm Priya Chanchal ✨
+- I'm currently pursuing **B.Tech in Computer Science and Engineering (AI/ML)** </br>
+- I'm passionate about **Data Science, AI/ML, and Software Development**</br>
+- I love building real-world projects & solving challenging coding problems</br>
+- I'm currently working on improving my **DSA**, learning **System Design**, and exploring **internship opportunities**</br>
+- Reach me at: **priyachanchal169@gmail.com**<br>
 
 
 
