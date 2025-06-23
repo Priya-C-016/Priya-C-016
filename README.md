@@ -1,4 +1,4 @@
-![master]()
+![master](https://github.com/Priya-C-016/Priya-C-016/blob/main/Beige%20Minimalist%20Professional%20LinkedIn%20Background%20Photo.png)
 <!--<h3>Hi there, I'm Priya Chanchal ✨</h3>-->
 <!-- <h3 align="center">A Passionate Computer Science Student and Aspiring Software Engineer</h3> -->
 
